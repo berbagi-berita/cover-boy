@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://berbagi-berita.github.io/cover-boy/sitemap.xml
